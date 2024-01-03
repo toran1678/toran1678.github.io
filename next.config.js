@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const debug = prrocess.env.NODE.ENV !== "production";
-const repository = "http://toran1678.github.io/react-nextjs-deploy";
+const repository = "http://toran1678.github.io/toran1678.github.io";
 
 const nextConfig = {
     reactStrictMode: true,

@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://toran1678.github.io/react-nextjs-deploy",
+  "homepage": "http://toran1678.github.io/toran1678.github.io",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
